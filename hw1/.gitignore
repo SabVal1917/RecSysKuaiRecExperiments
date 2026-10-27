@@ -1,0 +1,64 @@
+# Данные, веса моделей и промежуточные артефакты
+data/
+artifacts/
+checkpoints/
+*.npy
+*.npz
+*.parquet
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+runs/
+wandb/
+
+# Окружения и локальная конфигурация
+.venv/
+venv/
+env/
+.tox/
+.nox/
+.env
+.env.*
+!.env.example
+/.aws/
+
+# Python, Jupyter и кеши
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Сборка пакетов и отчёты покрытия
+build/
+dist/
+*.egg-info/
+.coverage
+.coverage.*
+htmlcov/
+
+# Настройки IDE и временные файлы редакторов
+.idea/
+idea/
+*.swp
+*.swo
+*~
+
+# Архивы, логи и локальный файл задания
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.log
+wget-log*
+*.docx
+
+# Системные файлы
+.DS_Store
+Thumbs.db

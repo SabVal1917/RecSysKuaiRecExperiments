@@ -1,3 +1,6 @@
+# Домашние работы по рекомендательным системам
+
 ФИО: Хомяков Максимилиан Валерьевич
-Датасет: KuaiRec
-Ссылка на датасет: https://github.com/chongminggao/KuaiRec?utm_source=chatgpt.com
+
+- [Домашнее задание 1 — KuaiRec](hw1/DATA.md)
+- [Ноутбук с экспериментами](hw1/experiments.ipynb)
